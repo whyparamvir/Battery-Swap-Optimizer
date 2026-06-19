@@ -1,6 +1,6 @@
 # 🔋 Battery Swap Station Optimizer
 
-A Python-based greedy optimization algorithm that assigns EVs to battery swap stations to minimize total weighted wait time. Built for portfolio demonstration in the energy/EV space.
+A Python-based greedy optimization algorithm that assigns EVs to battery swap stations to minimize total weighted wait time.
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
