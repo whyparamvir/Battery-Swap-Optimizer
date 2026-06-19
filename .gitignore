@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated visualization outputs
+optimization_results.png
+interactive_map.html
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
